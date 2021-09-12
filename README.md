@@ -43,6 +43,11 @@ This step is optional, but if you want you can configure some Toasty parameters.
 
 LuckyToast.simpleToast(context, message, duration);
 
-Example:-
-LuckyToast.simpleToast(MainActivity.this,"Show New Data",1); // required
 ```
+## Example
+``` java
+
+LuckyToast.simpleToast(MainActivity.this,"Show New Data",1); // required
+
+```
+
